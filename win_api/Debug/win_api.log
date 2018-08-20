@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\cloudadmin\source\repos\win_api\win_api\source.cpp(37): warning C4838: conversion from 'int' to 'ULONG' requires a narrowing conversion
+  win_api.vcxproj -> c:\Users\cloudadmin\source\repos\win_api\Debug\win_api.exe
